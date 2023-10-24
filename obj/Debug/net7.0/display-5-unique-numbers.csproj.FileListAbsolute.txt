@@ -1,0 +1,15 @@
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\display-5-unique-numbers.csproj.AssemblyReference.cache
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\display-5-unique-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\display-5-unique-numbers.AssemblyInfoInputs.cache
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\display-5-unique-numbers.AssemblyInfo.cs
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\display-5-unique-numbers.csproj.CoreCompileInputs.cache
+C:\Users\wbalconi\git\display-5-unique-numbers\bin\Debug\net7.0\display-5-unique-numbers.exe
+C:\Users\wbalconi\git\display-5-unique-numbers\bin\Debug\net7.0\display-5-unique-numbers.deps.json
+C:\Users\wbalconi\git\display-5-unique-numbers\bin\Debug\net7.0\display-5-unique-numbers.runtimeconfig.json
+C:\Users\wbalconi\git\display-5-unique-numbers\bin\Debug\net7.0\display-5-unique-numbers.dll
+C:\Users\wbalconi\git\display-5-unique-numbers\bin\Debug\net7.0\display-5-unique-numbers.pdb
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\display-5-unique-numbers.dll
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\refint\display-5-unique-numbers.dll
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\display-5-unique-numbers.pdb
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\display-5-unique-numbers.genruntimeconfig.cache
+C:\Users\wbalconi\git\display-5-unique-numbers\obj\Debug\net7.0\ref\display-5-unique-numbers.dll

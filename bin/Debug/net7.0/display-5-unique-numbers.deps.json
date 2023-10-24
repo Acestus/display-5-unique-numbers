@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "display-5-unique-numbers/1.0.0": {
+        "runtime": {
+          "display-5-unique-numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "display-5-unique-numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
